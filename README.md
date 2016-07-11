@@ -13,7 +13,7 @@ The other shaders are meant to render shapes in a single color. The following sh
   * regular hexagon ring
   * equilateral triangle
   * equilateral triangle ring
-  * roses
-  * asteroids
+  * rose
+  * asteroid
 
 The shapes are antialised (the antilaising is reolsution independant).
