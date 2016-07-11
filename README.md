@@ -13,7 +13,11 @@ The other shaders are meant to render shapes in a single color. The following sh
   * regular hexagon ring
   * equilateral triangle
   * equilateral triangle ring
+  * regular six-pointed star
+  * regular six-pointed star ring
   * rose
   * asteroid
 
 The shapes are antialised (the antilaising is reolsution independant).
+
+The math for hexagons, triangles, and stars is explained in this document: http://www.gamelogic.co.za/downloads/HexMath2.pdf
